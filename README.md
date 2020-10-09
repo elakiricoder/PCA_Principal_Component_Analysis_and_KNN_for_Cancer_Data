@@ -11,7 +11,7 @@ Please note that PCA is not a full machine learning algorithm. It is an unsuperv
 <br/>
 <br/>
  ##Steps:##
-<br/>
+
  - [x] 1 - Imports <br />
  - [x] 2 - Load the Data <br />
  - [x] 3 - Standardize the data <br />
