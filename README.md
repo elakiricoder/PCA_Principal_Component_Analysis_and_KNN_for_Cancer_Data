@@ -11,14 +11,15 @@ Please note that PCA is not a full machine learning algorithm. It is an unsuperv
 <br/>
 <br/>
 **Steps:**
-- [ ] 1 - Imports <br />
-- [ ] 2 - Load the Data <br />
-- [ ] 3 - Standardize the data <br />
-- [ ] 4 - Transform Data with PCA <br />
-- [ ] 5 - Visualize the PCA transformed Data <br />
-- [ ] 6 - Split the PCA transformed Data<br />
-- [ ] 7 - Apply the PCA data to KNN <br />
-- [ ] 8 - Evalute the Model <br />
-- [ ] 9 - Check the error rate at different K values <br />
-- [ ] 10 - Identify the lowest error rate and modify the model <br />
-- [ ] 11 - Test a sample <br />
+
+ - [ ] 1 - Imports <br />
+2 - Load the Data <br />
+3 - Standardize the data <br />
+4 - Transform Data with PCA <br />
+5 - Visualize the PCA transformed Data <br />
+6 - Split the PCA transformed Data<br />
+7 - Apply the PCA data to KNN <br />
+8 - Evalute the Model <br />
+9 - Check the error rate at different K values <br />
+10 - Identify the lowest error rate and modify the model <br />
+11 - Test a sample <br />
