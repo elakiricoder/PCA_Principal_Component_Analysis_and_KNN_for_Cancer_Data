@@ -10,7 +10,7 @@ The breast cabcer dataset can be directly loaded from sklearn. The reason why I'
 Please note that PCA is not a full machine learning algorithm. It is an unsupervised learning algorithm which only reduces the dimensions and then you can use a machine learning algorithm to classify the data. 
 <br/>
 <br/>
- **Steps:**
+__Steps:__
 
  - [x] 1 - Imports <br />
  - [x] 2 - Load the Data <br />
